@@ -11,4 +11,4 @@ Olá!
                        
  😄 Pronouns: ele/dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delkiil&show_icons=true&theme=highcontrast&bg_color=90,ff6600,d8d2)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delkiil&show_icons=true&theme=highcontrast&bg_color=90,000000,73ff91)](https://github.com/anuraghazra/github-readme-stats)
