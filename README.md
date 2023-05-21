@@ -6,8 +6,7 @@ Olá!
  
  👯 Ainda não procuro colaborar em algum projeto, mas se eu tiver a oportunidade de colaborar em algum projeto simples ou que também seja para aprender e assim ganhar conhecimento e desenvolver habilidades na área, eu me esforçarei para colaborar no mesmo.
  
- 📫 Como me procurar: Instagram: https://www.instagram.com/muryloo.13/
-                       Email: goisradane49@gmail.com
+ 📫 Como me procurar: Email: goisradane49@gmail.com
                        
  😄 Pronomes: ele/dele
 #
