@@ -20,4 +20,5 @@ Olá!
 <div>
  <a href="https://instagram.com/muryloo.13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/delkiil" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ <a href="https://open.spotify.com/user/yy6sadq1lzv3wms0kp66t0sn2?si=90842bc51ca347ee" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="blank"></a>
  </div>
